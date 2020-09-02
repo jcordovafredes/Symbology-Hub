@@ -1,2 +1,2 @@
-# Simbology-qgis
-Simbology svg
+# Symbology4qgis
+Symbology in svg
