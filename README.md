@@ -1,2 +1,2 @@
-# Symbology4qgis
+# Symbologies-Hub
 Symbology in svg
