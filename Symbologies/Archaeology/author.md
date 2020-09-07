@@ -1,2 +1,2 @@
 Symbology created to Diana Mogrovejo
-GitHub repository: https://github.com/bzdjahna/Symbology-Hub
+GitHub repository: https://github.com/bzdjahna/Symbology-Hub  
