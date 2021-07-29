@@ -180,15 +180,6 @@ The main goals of this repository is have a place where someone can find easily 
 </table>
 
 ---
-## **TEAM**
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ambarja"><img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=2d12c02816bc399456bb1cec9c3ceaeff41adc11&v=4" width="100px;" alt=""/><br /><sub><b>Antony Barja</b></sub></a></td>
-    <td align="center"><a href="https://github.com/bzdjahna"><img src="https://avatars.githubusercontent.com/u/19366793?v=4" width="100px;" alt=""/><br /><sub><b>Diana Morvejo</b></sub></a></td>
-</table>
-
----
 
 ## **SHARE AND CONTRIBUTE**
 If you want contribute with this repository and put your own simbologies, just should following the next steps:
