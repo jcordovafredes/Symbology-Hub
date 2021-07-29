@@ -27,7 +27,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
    </td>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Ecology/Ecology.tar">
     <img src="./_img/collage_ecology.png" width="250px">
      <br/>
      <sub>
@@ -36,7 +36,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
   </td>
     <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Food/Food.tar">
     <img src="./_img/collage_food.png" width="200px">
      <br/>
      <sub>
@@ -50,7 +50,7 @@ The main goals of this repository is have a place where someone can find easily 
   <th><p align="center">Terrestrial animals</p></th>
   </tr>
  <td align="center">
-   <a href="">
+   <a href="#">
     <img src="./_img/collage_aquatic_animal.png" width="200px">
      <br/>
      <sub>
@@ -59,7 +59,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
    </td>
   <td align="center">
-   <a href="">
+   <a href="#">
     <img src="./_img/collage_arial_animal.png" width="200px">
      <br/>
      <sub>
@@ -68,7 +68,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
   </td>
   <td align="center">
-   <a href="">
+   <a href="#">
     <img src="./_img/collage_terrestrial_animal.png" width="200px">
      <br/>
      <sub>
@@ -82,7 +82,7 @@ The main goals of this repository is have a place where someone can find easily 
   <th><p align="center">Pandemic</p></th>
   </tr>
  <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Natural%20disaster/Natural%20disaster.tar">
     <img src="./_img/collage_disaster.png" width="200px">
      <br/>
      <sub>
@@ -91,7 +91,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
    </td>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Drones/DroneIcons.tar">
     <img src="./_img/collage_drone.png" width="200px">
      <br/>
      <sub>
@@ -100,7 +100,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
   </td>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Pandemic/Pandemic-covid19.tar">
     <img src="./_img/collage_pandemic.png" width="200px">
      <br/>
      <sub>
@@ -114,7 +114,7 @@ The main goals of this repository is have a place where someone can find easily 
   <th><p align="center">North</p></th>
   </tr>
  <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Archaeology/Archaeology.zip">
     <img src="./_img/collage_archeological_1.png" width="200px">
      <br/>
      <sub>
@@ -123,7 +123,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
    </td>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Archaeology/Archaeology.rar">
     <img src="./_img/collage_archeological_2.png" width="200px">
      <br/>
      <sub>
@@ -132,7 +132,7 @@ The main goals of this repository is have a place where someone can find easily 
     </a>
   </td>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/NorthSymbol/NorthSymbol.tar.gz">
     <img src="./_img/collage_north.png" width="200px">
      <br/>
      <sub>
@@ -146,7 +146,7 @@ The main goals of this repository is have a place where someone can find easily 
    <th><p align="center">Geology</p></th>
   </tr>
   <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Wheather/Wheather.tar">
     <img src="./_img/collage_wheather.png" width="200px">
      <br/>
      <sub>
@@ -156,7 +156,7 @@ The main goals of this repository is have a place where someone can find easily 
    </td>
 
    <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/IconsMultiple/QGIS_Mega_Material_Design_SVG-pack.zip">
     <img src="./_img/collage_icon_multiple.png" width="200px">
      <br/>
      <sub>
@@ -166,7 +166,7 @@ The main goals of this repository is have a place where someone can find easily 
    </td>
 
    <td align="center">
-   <a href="">
+   <a href="https://github.com/qgispe/Symbology-Hub/raw/master/Symbologies/Geology/Geology.tar">
     <img src="./_img/collage_geology.png" width="200px">
      <br/>
      <sub>
