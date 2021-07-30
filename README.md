@@ -1,4 +1,4 @@
-<h1 align="center"><b>SIMBOLOGIES FOR QGIS</b></h1>
+<h1 align="center"><b>SYMBOLOGIES FOR QGIS</b></h1>
 <p align="center">
 <a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a href="https://twitter.com/antony_barja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
